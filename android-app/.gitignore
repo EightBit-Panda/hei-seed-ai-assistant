@@ -1,0 +1,26 @@
+
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+**/build/
+
+# Kotlin
+.kotlin/
+
+# Local machine configuration
+local.properties
+
+# Build outputs
+*.apk
+*.aab
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Secrets and local credentials
+secrets.properties
+local.properties
